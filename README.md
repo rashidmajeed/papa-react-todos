@@ -21,3 +21,7 @@ $ Randomly quotes are fetched using an api below:
 $ https://type.fit/api/quotes
 
 ```
+
+### Screenshot
+
+![papa-react-todos](https://user-images.githubusercontent.com/21228768/105569570-dbb18100-5d42-11eb-97eb-00ba2810a1bb.png)
